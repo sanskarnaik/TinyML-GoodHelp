@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Patient Tracker</string>
+    <string name="patient_s_bed_no">PATIENT\'S BED NO:</string>
+    <string name="less_than_10_mins">LESS THAN 10 MINS</string>
+    <string name="less_than_20_mins">LESS THAN 20 MINS</string>
+    <string name="_00">00</string>
+    <string name="good">GOOD</string>
+    <string name="patient_s_msg">PATIENT\'S MSG</string>
+    <string name="patient_s_status">Patient\'s Status</string>
+    <string name="visit_later_send_the_nurse_now">VISIT LATER, SEND THE NURSE NOW</string>
+    <string name="how_much_time_will_you_need_to_reach_the_patient">How much time will you need to reach the patient:</string>
+    <string name="spinner_BedNo" />
+    <string name="spinner">BedNo</string>
+    <string name="name">Name:</string>
+    <string name="visit_later">VISIT LATER</string>
+    <string name="send_nurse">SEND NURSE</string>
+</resources>

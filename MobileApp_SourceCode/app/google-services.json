@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532464659108",
+    "firebase_url": "https://patient-s-database-cd92d-default-rtdb.firebaseio.com",
+    "project_id": "patient-s-database-cd92d",
+    "storage_bucket": "patient-s-database-cd92d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532464659108:android:2b3ac572e6838e588c1431",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532464659108-rbf9e7c89vdcgit0s774g9vnb6ce3i9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoo16wRdO4zWnVIJevT75LDzGXztEtw10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532464659108-rbf9e7c89vdcgit0s774g9vnb6ce3i9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
