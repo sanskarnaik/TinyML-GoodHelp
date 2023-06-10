@@ -1,4 +1,4 @@
-# TinyML-GoogHelp
+# TinyML-GoodHelp
 This repository contains the source code for our TinyML Project.
 
 ## What is the Project:
